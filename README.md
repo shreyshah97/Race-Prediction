@@ -24,6 +24,6 @@ The results are as follows:
 ![transfer](https://github.com/shreyshah97/Race-Prediction/blob/master/Images/transfer.png)
 
 The transfer learning model took less time to train and increased accuracy by 4-5%.
-The outputs looked as follows:
+The errors looked as follows:
 
 ![output](https://github.com/shreyshah97/Race-Prediction/blob/master/Images/output.png)
